@@ -1,0 +1,39 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/psoriasis---primary.py
+inputModule3:
+  class: File
+  path: python/similar-psoriasis---primary.py
+inputModule4:
+  class: File
+  path: python/arthropathy-psoriasis---primary.py
+inputModule5:
+  class: File
+  path: python/psoriasis-arthritis---primary.py
+inputModule6:
+  class: File
+  path: python/other-psoriasis---primary.py
+inputModule7:
+  class: File
+  path: python/pustular-psoriasis---primary.py
+inputModule8:
+  class: File
+  path: python/psoriasis---secondary.py
+inputModule9:
+  class: File
+  path: python/arthropathy-psoriasis---secondary.py
+inputModule10:
+  class: File
+  path: python/psoriasis-arthritis---secondary.py
+inputModule11:
+  class: File
+  path: python/psoriatic-psoriasis---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
